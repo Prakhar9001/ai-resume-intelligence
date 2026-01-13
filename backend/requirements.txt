@@ -1,0 +1,9 @@
+pdfplumber
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+accelerate
+flask
+flask-cors
